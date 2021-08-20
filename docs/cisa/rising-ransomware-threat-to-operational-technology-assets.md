@@ -1,8 +1,8 @@
 ---
 layout: default
-title: . 6/9/2021 - Rising Ransomware Threat To Operational Technology Assets 
+title: . June 9, 2021 - Rising Ransomware Threat To Operational Technology Assets 
 parent: CISA 
-nav_order: 979062200 
+nav_order: 9790622 
 ---
 <style>
 .dont-break-out {
