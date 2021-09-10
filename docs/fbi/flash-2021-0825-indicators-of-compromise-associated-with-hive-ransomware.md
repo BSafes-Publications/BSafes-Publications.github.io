@@ -21,7 +21,7 @@ nav_order: 979040699
 <div class="dont-break-out" markdown="1">
 This is the mobile-friendly web version of the [original article](https://s3.documentcloud.org/documents/21049431/fbi-flash-hive-ransomware-iocs.pdf).
 
-<img src="https://statics.bsafes.com/images/publications/onepercent-group-ransomware-bc-flash-alert.png" alt="Indicators of Compromise Associated with OnePercent Group Ransomware" style="display:block; margin:0 auto">
+<img src="https://statics.bsafes.com/images/publications/fbi-flash-hive-ransomware-iocs.png" alt="Indicators of Compromise Associated with Hive Ransomware" style="display:block; margin:0 auto">
 
 ### 25 Aug 2021
 {: .no_toc }
@@ -50,6 +50,13 @@ Hive ransomware seeks processes related to backups, anti-virus/anti-spyware, and
 ## Indicators of Compromise 
 The following indicators were leveraged by the threat actors during Hive ransomware compromises. Some of these indicators might appear as applications within your enterprise supporting legitimate purposes; however, these applications can be used by threat actors to aid in further malicious exploration of your enterprise. The FBI recommends removing any application not deemed necessary for day-to-day operations.
 
+![day-to-day operations.](https://statics.bsafes.com/images/publications/fbi-flash-hive-ransomware-iocs-fig-1.png)
+
+![day-to-day operations](https://statics.bsafes.com/images/publications/fbi-flash-hive-ransomware-iocs-fig-2.png)
+
+![day-to-day operations](https://statics.bsafes.com/images/publications/fbi-flash-hive-ransomware-iocs-fig-3.png)
+
+![day-to-day operations](https://statics.bsafes.com/images/publications/fbi-flash-hive-ransomware-iocs-fig-4.png)
 ## Technical Details 
 
 
