@@ -40,7 +40,7 @@ This is the mobile-friendly web version of the [original article](https://www.ft
 1. TOC
 {:toc}
 
-In recognition of the proliferation of apps and connected devices that capture sensitive health data, the Federal Trade Commission is providing this Policy Statement to offer guidance on the scope of the FTC’s Health Breach Notification Rule, 16 C.F.R. Part 318 (“the Rule”).<sup>1<_sup>
+In recognition of the proliferation of apps and connected devices that capture sensitive health data, the Federal Trade Commission is providing this Policy Statement to offer guidance on the scope of the FTC’s Health Breach Notification Rule, 16 C.F.R. Part 318 (“the Rule”).<sup>1</sup>
  
 The FTC’s Health Breach Notification Rule helps to ensure that entities who are not covered by the Health Insurance Portability and Accountability Act (“HIPAA”) nevertheless face accountability when consumers’ sensitive health information is compromised. Under the Rule’s requirements, vendors of personal health records (“PHR”) and PHR-related entities must notify U.S. consumers and the FTC, and, in some cases, the media, if there has been a breach of unsecured identifiable health information, or face civil penalties for violations. The Rule also covers service providers to these entities. In practical terms, this means that entities covered by the Rule who have experienced breaches cannot conceal this fact from those who have entrusted them with sensitive health information. 
 
