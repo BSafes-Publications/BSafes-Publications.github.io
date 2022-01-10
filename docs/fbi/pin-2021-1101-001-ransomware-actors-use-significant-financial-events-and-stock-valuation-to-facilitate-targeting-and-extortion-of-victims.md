@@ -19,7 +19,7 @@ nav_order: 979013099
 </style>
 
 <div class="dont-break-out" markdown="1">
-This is the mob30e-friendly web version of the [original article](https://www.ic3.gov/Media/News/2021/211101.pdf).
+This is the mobile-friendly web version of the [original article](https://www.ic3.gov/Media/News/2021/211101.pdf).
 
 <img src="https://statics.bsafes.com/images/publications/pin-2021-1101-001-ransomware-actors-use-significant-financial-events-and-stock-valuation-to-facilitate-targeting-and-extortion-of-victims.png" alt="Business Email Compromise Actors Targeting State, Local, Tribal, and Territorial" style="display:block; margin:0 auto">
 
