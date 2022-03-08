@@ -44,7 +44,12 @@ This FLASH has been released TLP WHITE. Subject to standard copyright rules, TLP
 # RagnarLocker Ransomware Indicators of Compromise    
 
 ## Summary
-The FBI first became aware of RagnarLocker in April 2020 and subsequently produced a FLASH to disseminate known indicators of compromise (IOCs) at that time. This FLASH provides updated and additional IOCs to supplement that report. As of January 2022, the FBI has identified at least 52 entities across 10 critical infrastructure sectors affected by RagnarLocker ransomware, including entities in the critical manufacturing, energy, financial services, government, and information technology sectors. RagnarLocker ransomware actors work as part of a ransomware family1, frequently changing obfuscation techniques to avoid detection and prevention.
+The FBI first became aware of RagnarLocker in April 2020 and subsequently produced a FLASH to disseminate known indicators of compromise (IOCs) at that time. This FLASH provides updated and additional IOCs to supplement that report. As of January 2022, the FBI has identified at least 52 entities across 10 critical infrastructure sectors affected by RagnarLocker ransomware, including entities in the critical manufacturing, energy, financial services, government, and information technology sectors. RagnarLocker ransomware actors work as part of a ransomware family<sup>1</sup>, frequently changing obfuscation techniques to avoid detection and prevention.
+
+***
+<sup>1</sup> Ransomware family is a group of binaries associated to several ransomware variants or actor groups.
+{: .fs-2}
+***
 
 ## Technical Details
 RagnarLocker is identified by the extension “.RGNR_<ID>,” where <ID> is a hash of the computer’s NETBIOS name. The actors, identifying themselves as “RAGNAR_LOCKER,” leave a .txt ransom note, with instructions on how to pay the ransom and decrypt the data. RagnarLocker uses VMProtect, UPX, and custom packing algorithms and deploys within an attacker’s custom Windows XP virtual machine on a target’s site.
