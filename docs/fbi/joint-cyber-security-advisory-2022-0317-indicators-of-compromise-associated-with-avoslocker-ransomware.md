@@ -51,12 +51,11 @@ The AvosLocker leak site claims to have targeted victims in the United States, S
 
 ***
 
-*To report suspicious or criminal activity related to information found in this Joint Cybersecurity Advisory, contact your local FBI field office at w ww.fbi.gov/contact-us/field-offices. When available, please include the following information regarding the incident: date, time, and location of the incident; type of activity; number of people affected; type of equipment used for the activity; the name of the submitting company or organization; and a designated point of contact. To request incident response resources or technical assistance related to these threats, contact CISA at C ISAServiceDesk@cisa.dhs.gov.*
+*To report suspicious or criminal activity related to information found in this Joint Cybersecurity Advisory, contact your local FBI field office at www.fbi.gov/contact-us/field-offices. When available, please include the following information regarding the incident: date, time, and location of the incident; type of activity; number of people affected; type of equipment used for the activity; the name of the submitting company or organization; and a designated point of contact. To request incident response resources or technical assistance related to these threats, contact CISA at CISAServiceDesk@cisa.dhs.gov.*
 
-*This document is marked TLP:WHITE. Disclosure is not limited. Sources may use TLP:WHITE when information carries minimal or no foreseeable risk of misuse, in accordance with applicable rules and procedures for public release. Subject to standard copyright rules, TLP:WHITE information may be distributed without restriction.  For more information on the Traffic Light Protocol, see h ttp://www.us-cert.gov/tlp/.*
+*This document is marked TLP:WHITE. Disclosure is not limited. Sources may use TLP:WHITE when information carries minimal or no foreseeable risk of misuse, in accordance with applicable rules and procedures for public release. Subject to standard copyright rules, TLP:WHITE information may be distributed without restriction.  For more information on the Traffic Light Protocol, see http://www.us-cert.gov/tlp/.*
 
-AvosLocker ransomware is a multi-threaded Windows executable written in C++ that runs as a console application and shows a log of actions performed on victim systems. AvosLocker ransomware samples contained optional command line arguments that could be supplied by
-an attacker to enable/disable certain features. 
+AvosLocker ransomware is a multi-threaded Windows executable written in C++ that runs as a console application and shows a log of actions performed on victim systems. AvosLocker ransomware samples contained optional command line arguments that could be supplied by an attacker to enable/disable certain features. 
 
 ### Indicators of compromise specific to AvosLocker malware
 #### *Encryption and the ransom demand*
