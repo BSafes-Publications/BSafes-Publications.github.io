@@ -35,7 +35,7 @@ Over the last five years, the IC3 has received an average of 552,000 complaints 
 {: .fs-2}
 ***
 
-### TOP 5 CRIME TYPE COMPARSON<sup>4</sup>
+### TOP 5 CRIME TYPE COMPARISON<sup>4</sup>
 ![TOP 5 CRIME TYPE COMPARSON](https://statics.bsafes.com/images/publications/internet-crime-report-2021-fig-4.png)
 
 ***

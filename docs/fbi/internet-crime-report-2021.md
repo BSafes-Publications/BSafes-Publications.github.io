@@ -83,6 +83,7 @@ In 2021, heightened attention was brought to the urgent need for more cyber inci
 The FBI’s Cyber Division is working harder than ever to protect the American public and to instill safety, security, and confidence in a digitally connected world. We encourage everyone to use IC3 and reach out to their local FBI field office to report malicious activity. Together we can continue to create a safer and more secure cyber landscape.
 
 ![Paul Abbate](https://statics.bsafes.com/images/publications/internet-crime-report-2021-PaulAbbate.png)
+
 Paul Abbate
 Deputy Director
 Federal Bureau of Investigation

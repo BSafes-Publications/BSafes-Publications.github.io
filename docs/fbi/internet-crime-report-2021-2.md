@@ -120,7 +120,7 @@ Ransomware tactics and techniques continued to evolve in 2021, which demonstrate
 >> - Update your operating system and software.
 >> - Implement user training and phishing exercises to raise awareness about the risks of suspicious links and attachments.
 >> - If you use Remote Desktop Protocol (RDP), secure and monitor it.
->> - Make an offline backup of your data.
+>> - Make an offline backup of your data.  
 ***
 
 **Ransomware and Critical Infrastructure Sectors**
@@ -132,6 +132,7 @@ In June 2021, the IC3 began tracking reported ransomware incidents in which the 
 <sup>12</sup> 2021 Trends Show Increased Globalized Threat of Ransomware.
 {: .fs-2}
 https://www.ic3.gov/Media/News/2022/220209.pdf
+{: .fs-2}
 ***
 
 In October 2021, the IC3 posted a Joint Cybersecurity Advisory (CSA) to ic3.gov regarding ongoing cyber threats to U.S. Water and Wastewater Systems. In September 2021, the IC3 posted a Private Industry Notification (PIN) which warned that ransomware attacks targeting the Food and Agriculture sector disrupt operations, cause financial loss, and negatively impact the food supply chain. In May 2021, the IC3 posted an FBI Liaison Alert System (FLASH) report that advised the FBI identified at least 16 CONTI ransomware attacks targeting US Healthcare and First Responder networks, including law enforcement agencies, emergency medical services, 9-1-1 dispatch centers, and municipalities within the last year. And in March 2021, the IC3 posted a FLASH warning that FBI reporting indicated an increase in PYSA ransomware targeting education institutions in 12 US states and the United Kingdom.
