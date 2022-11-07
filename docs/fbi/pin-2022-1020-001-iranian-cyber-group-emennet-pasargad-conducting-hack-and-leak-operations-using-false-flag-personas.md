@@ -23,11 +23,11 @@ This is the mobile-friendly web version of the [original article](https://www.ic
 
 <img src="https://statics.bsafes.com/images/publications/pin-2022-1020-001-iranian-cyber-group-emennet-pasargad-conducting-hack-and-leak-operations-using-false-flag-personas.png" alt="Cyber Criminals Targeting Healthcare Payment Processors, Costing Victims Millions in Losses">
 
-### 14 September 2022
+### 20 October 2022
 {: .no_toc }
 #### PIN Number
 {: .no_toc }
-### 20220914-001 
+### 20221020-001 
 {: .no_toc }  
 # Iranian Cyber Group Emennet Pasargad Conducting Hack-and-Leak Operations Using False-Flag Personas  
 {: .no_toc }
